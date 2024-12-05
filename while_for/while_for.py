@@ -113,4 +113,4 @@ for x in range(2, -1, -1):
 # 0
 print(list( range(2,-1, -1) )) # [2, 1, 0]
 
-print(list( range(0, 11, 2) ))
+print(list( range(0, 11, 2) )) # [0, 2, 4, 6, 8, 10]
