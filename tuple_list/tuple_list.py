@@ -476,4 +476,4 @@ print(all_birds[1][0]) # dodo
 
 # 튜플 컴프리헨션은 없다
 number_thing = (number for number in range(1, 6))
-print(type(number_thing))
+print(type(number_thing)) # <class 'generator'>
